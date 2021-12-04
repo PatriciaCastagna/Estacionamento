@@ -1,2 +1,2 @@
 # Estacionamento
-Projeto Back-End (CRUDO/ API ) realizado em curso com a TRACO.
+Projeto Back-End (CRUD/ API ) realizado em curso com a TRACO.
